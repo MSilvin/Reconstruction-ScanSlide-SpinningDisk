@@ -11,11 +11,9 @@ This work is licensed by Marine SILVIN, (http://ici.igbmc.fr/) under a
 ## Table of Contents
 1. [Reconstruction ScanSlide SpinningDisk](#Reconstruction-ScanSlide-SpinningDisk)
 2. [Requirements](#Requirements)
-3. [Pre-processing of the images](#Pre-processing-of-the-images)
-4. [How to install the notebook](#How-to-install-the-notebook)
-5. [How to run the notebook](#How-to-run-the-notebook)
-6. [Outputs](#Outputs)
-7. [More infos](#More-infos)
+3. [How to install and run the macro](#How-to-install-and-run-the-macro)
+7. [Outputs](#Outputs)
+8. [More infos](#More-infos)
 
 
 # Reconstruction ScanSlide SpinningDisk
